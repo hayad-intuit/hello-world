@@ -5,3 +5,6 @@ This is a Hello World project based on the GitHub Guide https://guides.github.co
 
 The guide is great for getting started with GitHub. It takes 10 minutes!
 
+More guides available here: https://guides.github.com/
+
+
