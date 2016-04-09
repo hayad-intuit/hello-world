@@ -87,7 +87,7 @@ content from cell 1 | content from cell 2
 content from cell 3 | content from cell 4
 
 ### user mention
-@hayad-intuit
+@hayad-intuit :relaxed:
 
 ### Emoji
 :smirk:
