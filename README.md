@@ -74,10 +74,10 @@ Can also indent code by four spaces:
     }
 
 Example of python code without syntax highlighting:
-
+```python
 def foo():
     if not bar:
         return True
-
+```
 
 
