@@ -48,12 +48,34 @@ http://www.intuit.com
 ### Blockquotes
 As Kanye West said:
 > We're living in the future so
-> the present is out past.
+> the present is our past.
 > 
 
 ### Inline Code
 I think you should use an
 `addr` element here instead
+
+
+### Syntax Highlighting
+```javascript
+function fancyAlert(arg) {
+    if(arg) {
+        $.facebox({div:'#foo'})
+    }
+}
+```
+
+Can also indent code by four spaces:
+    function fancyAlert(arg) {
+        if(arg) {
+            $.facebox({div:'#foo'})
+        }
+    }
+
+Example of python code without syntax highlighting:
+def foo():
+    if not bar:
+        return True
 
 
 
