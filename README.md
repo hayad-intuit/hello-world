@@ -41,6 +41,19 @@ __this is text will also be bold__
 ![GitHub avatar] (github_avatar.png)
 
 ### Links
-http://www.intuit.com - automatic!
+http://www.intuit.com
+
 [Intuit](http://www.intuit.com)
+
+### Blockquotes
+As Kanye West said:
+> We're living in the future so
+> the present is out past.
+> 
+
+### Inline Code
+I think you should use an
+`addr` element here instead
+
+
 
