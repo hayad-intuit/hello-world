@@ -7,4 +7,5 @@ The guide is great for getting started with GitHub. It takes 10 minutes!
 
 More guides available here: https://guides.github.com/
 
+Follow the *link* to **Intuit** to visit [intuit.com!] (http://www.intuit.com/)
 
