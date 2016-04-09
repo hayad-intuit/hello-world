@@ -21,7 +21,7 @@ _this text will also be italic_
 
 __this is text will also be bold__
 
-Unordered List
+### Unordered List
 
 * Item 1
 * Item 2
@@ -29,7 +29,7 @@ Unordered List
     * Item 2b
 
 
-Ordered List
+### Ordered List
 
 1. Item 1
 2. Item 2
@@ -37,4 +37,5 @@ Ordered List
     1. item 3.1
     2. item 3.2
 
-
+### Images
+![GitHub avatar] (github_avatar.png)
