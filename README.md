@@ -39,4 +39,8 @@ __this is text will also be bold__
 
 ### Images
 ![GitHub avatar] (github_avatar.png)
-Format: ![Alt Text](url)
+
+### Links
+http://www.intuit.com - automatic!
+[Intuit](http://www.intuit.com)
+
