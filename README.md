@@ -66,6 +66,7 @@ function fancyAlert(arg) {
 ```
 
 Can also indent code by four spaces:
+
     function fancyAlert(arg) {
         if(arg) {
             $.facebox({div:'#foo'})
@@ -73,6 +74,7 @@ Can also indent code by four spaces:
     }
 
 Example of python code without syntax highlighting:
+
 def foo():
     if not bar:
         return True
